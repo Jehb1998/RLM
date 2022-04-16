@@ -1,2 +1,2 @@
-# RLM
+# RLM TRIP DURATION
 El modelo busca predecir la duración total del viaje en taxi en la ciudad de Nueva York con una métrica de desempeño basado en el error cuadrático medio (RMSE) inferior 5 segundos, con la finalidad de poder determinar en promedio cuánto tarda un viaje en la ciudad de Nueva York, dado diferentes condiciones y de esta manera evaluar su eficiencia. Su conjunto de datos principal es uno publicado por la Comisión de taxis y Limusinas de la Ciudad de Nueva York, que incluye la hora de recogida, las coordenadas geográficas, el número de pasajeros y otras variables. Si se considera necesario se irán incluyendo nuevas variables para mejorar el modelo, pues en el desarrollo del trabajo se podrían encontrar factores que afecten su desempeño.
